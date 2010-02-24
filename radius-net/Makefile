@@ -62,7 +62,10 @@ DATA_FILES =
 RESOURCES = 
 
 EXTRAS = \
+	src \
+	tools \
 	tools/radiusauth.cs \
+	ChangeLog \
 	radius-net.pc.in 
 
 REFERENCES =  \

@@ -1,8 +1,8 @@
 #!/bin/bash
-VERSION=0.1
+VERSION=0.4
 PACKAGE=radius-net
 prefix=/usr/local
-config=RELEASE
+config=DEBUG
 configurations=" DEBUG RELEASE"
 common_packages=""
 
