@@ -1,5 +1,11 @@
 2010-02-24  Cyrille Colin  <colin@univ-metz.fr>
 
+	* src/RadiusUtils.cs: patch that fixes up encodePapPassword to
+	process > 16 byte
+	passwords thanks to Eugene Lubarsky.
+
+2010-02-24  Cyrille Colin  <colin@univ-metz.fr>
+
 		* First import : in google svn.
 
 2009-09-14	Cyrille Colin	 <colin@univ-metz.fr>
