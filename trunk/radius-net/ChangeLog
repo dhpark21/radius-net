@@ -1,0 +1,31 @@
+2010-02-24  Cyrille Colin  <colin@univ-metz.fr>
+
+	* bin:
+	* src:
+	* tools:
+	* Makefile:
+	* ChangeLog:
+	* bin/Debug:
+	* bin/Release:
+	* radius-net.pc:
+	* AssemblyInfo.cs:
+	* radius-net.pidb:
+	* radius-net.pc.in:
+	* radius-net.csproj:
+	* src/RadiusEnums.cs:
+	* src/RadiusUtils.cs:
+	* src/RadiusPacket.cs:
+	* tools/radiusauth.cs:
+	* src/RadiusClient.cs:
+	* src/RadiusUdpClient.cs:
+	* bin/Release/radius-net.pc:
+	* bin/Release/radius-net.dll: 
+
+2009-09-14	Cyrille Colin	 <colin@univ-metz.fr>
+
+        * Fix UdpClient was disposed : Patch by Gerard Jager.
+
+2006-01-05  Cyrille Colin  <colin@univ-metz.fr>
+
+        * Fix NasPortType and adding attributes to packets : Many changes have been done, some functions are
+		not compatible with previous version.
